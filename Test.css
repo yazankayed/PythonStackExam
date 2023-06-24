@@ -1,0 +1,192 @@
+.topofthepageRightSide {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cookie-policy {
+    box-sizing: border-box;
+    width: 79%;
+    height: 160px;
+    padding: 20px;
+    border: 2px solid #999;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: 2px solid #000;
+    box-shadow: 4px 4px #000;
+    background-color: rgb(0, 209, 178);
+    cursor: pointer;
+    color: white;
+}
+
+.text {
+    width: 70%;
+}
+
+.text h2 {
+    font-size: 1.8rem;
+}
+
+.text p {
+    font-size: 1.2rem;
+}
+
+.botomImgName {
+    text-align: center;
+}
+
+.botomImg {
+    width: 80%;
+    margin-top: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.bottomImages {
+    display: flex;
+    margin-left: 50px;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    background-color: rgb(170, 232, 216);
+    margin-top: 50px;
+}
+
+.rightBottomDiv {
+    background-color: rgb(0, 209, 178);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    width: 130%;
+}
+
+#rightCactus {
+    width: 130%;
+}
+
+.rightDiv {
+    margin-left: 130px;
+    padding-bottom: 2px;
+}
+
+.midlleDiv img {
+    width: 120%;
+
+}
+
+#suculent {
+    height: 100%;
+}
+
+.centerDiv {
+    margin-left: 52px;
+    display: flex;
+    width: 100%;
+}
+
+.discover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -40px;
+}
+
+.writingLeftDiv {
+    background-color: rgb(0, 209, 178);
+    color: rgb(254, 254, 254);
+    width: 30%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.breakArea {
+    height: 8px;
+    background-color: black;
+    margin-top: -15px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    font-size: 25px;
+    margin-left: -40px;
+}
+
+.signIn img {
+    height: 40px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.signIn button {
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+
+.signIn a {
+    color: black;
+    text-decoration: none;
+    font-size: 27px;
+    font-style: normal;
+}
+
+.signIn {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 250px;
+}
+
+input[type=text] {
+    width: 650px;
+    height: 45px;
+    border-radius: 25px;
+    border: solid black;
+    margin-left: 20px;
+}
+
+.searchBar {
+    width: 90%;
+}
+
+.leafImage h1 {
+    display: inline;
+    font-size: 60px;
+    margin-left: 20px;
+}
+
+.leafImage {
+    display: flex;
+}
+
+.leafImage img {
+    background-color: rgb(0, 208, 177);
+    width: 55px;
+    height: 65px;
+    margin-top: 40px;
+}
+
+.topOfThePage {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    background-color: white;
+    margin: 0 auto;
+}
